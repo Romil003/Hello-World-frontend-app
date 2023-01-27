@@ -1,12 +1,15 @@
 h1 {
-  text-align: center;
-  font-size: xx-large;
+  padding-left: 0px;
+  font-size: 100px;
+  color: blue;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  width: 25%;
+  width: 10%;
+  position: relative;
+  left: -10px;
 }
 
 .error-output {
@@ -14,4 +17,22 @@ img {
   font-size: 12px;
   font-style: italic;
   color: red;
+}
+
+.body {
+  margin: 0px;
+  border-color: black;  
+  border-width: .25em;  
+  border-style: inset;
+  padding-left: 200px;
+  padding-right: 30px;
+  background-color : orange  
+}
+
+pre {
+  font-family:verdana  
+}
+
+.input-position {
+  text-align: center;
 }
