@@ -2,6 +2,7 @@ import React, {useState}from 'react'
 import Header from './Header'
 import DisplayBook from './DisplayBook'
 import './Home.css'
+import logo from './bridgelabz logo.png'
 
 class Home extends React.Component {
 
