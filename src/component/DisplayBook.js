@@ -2,7 +2,7 @@ import React from 'react'
 
 function DisplayBook() {
   return (
-    <div>DisplayBook</div>
+    <div>Hello World From BridgeLabz</div>
   )
 }
 
